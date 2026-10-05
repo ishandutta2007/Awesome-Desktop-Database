@@ -51,9 +51,9 @@ Sorted by **Company Size / Revenue / Valuation** (descending order):
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by **GitHub Star Count** (descending order). Badges link directly to each repository's stargazers page.
+Sorted by **GitHub Stars_Count** (descending order). Badges link directly to each repository's stargazers page.
 
-| 📦 Repository | 📜 Description & License | ⭐ Stars |
+| 📦 Repository | 📜 Description & License | ⭐ GitHub_Stars |
 |:---|:---|:---:|
 | **[NocoDB](https://github.com/nocodb/nocodb)** | **Leading open-source Airtable alternative.** Connects to PostgreSQL, MySQL, SQL Server, and SQLite, transforming them into smart spreadsheets with grid, gallery, Kanban, and form views. *(MIT License)* | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) |
 | **[Teable](https://github.com/teableio/teable)** | **Super-fast real-time no-code database.** Built on top of PostgreSQL with enterprise spreadsheet interface and real-time collaboration. *(AGPL-3.0 License)* | [![Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers) |
@@ -74,7 +74,7 @@ Contributions are welcome and greatly appreciated!
 
 1. **Fork the Repository** on GitHub.
 2. **Create a Feature Branch** (`git checkout -b feature/add-new-database-tool`).
-3. **Add your entry to `README.md`** following the existing tabular format and star badge format.
+3. **Add your entry to `README.md`** following the existing tabular format and Stars_Badge format.
 4. **Commit your changes** (`git commit -m 'Add NewTool to Open-Source section'`).
 5. **Push to the branch** (`git push origin feature/add-new-database-tool`).
 6. **Open a Pull Request** with a brief summary of the added tool.
